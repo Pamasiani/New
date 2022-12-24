@@ -1,3 +1,3 @@
-print('Hello');
+print('Hello'); 
 hello = 'rat'
-print(hello)
+print(hello);
